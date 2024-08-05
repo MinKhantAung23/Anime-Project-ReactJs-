@@ -12,7 +12,7 @@ const AboutPage = () => {
       <Content className="px-10">
         <div className="bg-white p-5">
           <h2 className="text-lg text-blue-400 font-bold text-center mb-3">
-            About Us
+            About
           </h2>
           <p className="text-gray-500 mb-4 leading-5 tracking-wide">
             Welcome to the Anime App! I provide the latest information on top
@@ -23,7 +23,7 @@ const AboutPage = () => {
             !! Using ReactJs, Tailwindcss, Redux Toolkit ,RtkQuery, Ant Design
             Ui and Api for Jikan api
           </p>
-          <h2 className="text-center my-3 font-bold text-lg">Contact Us</h2>
+          <h2 className="text-center my-3 font-bold text-lg">Contact Me</h2>
           <Form
             name="contact"
             layout="vertical"
